@@ -14,7 +14,7 @@ public class HelloController {
 
     @FXML
     protected void onHelloButtonMove() {
-        welcomeText.setText("Welcome to JavaFX Application!");
+        welcomeText.setText("Welcome to JavaerggerFX Application!");
     }
 
 
